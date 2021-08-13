@@ -1,0 +1,156 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container{
+	width: 960px;
+	margin: 0 auto;
+	
+}
+#header{
+	height:120px;
+}
+#site{
+	float: left;
+	padding-left: 30px;
+}
+
+#content{
+	width: 600px;
+	float: left;
+	
+	
+}
+
+#nav{
+	float: right;
+	width: 550px;
+	height: 120px;
+	font-size: 16px;
+	margin-right: 20px;
+}
+#nav li{
+	padding-left: 50px;
+	float: left;
+	list-style-type:none;
+}
+#nav li a{
+	display: block;
+	width: 100px;
+	text-align: center;
+	padding: 25px 0;
+	color: #605353;
+	
+}
+#nav li a:hover{
+	background-color: #0097d8;
+	
+}
+#footer{
+	width:960px;
+	margin: 0 auto;
+	padding: 10px 5px;
+	clear: both;
+	background:#5C5858;
+	color: aliceblue;
+	text-align: right;
+	height: 30px;
+}
+#footer small{
+	font-weight:bold;
+	font-size:0.875em;
+}
+
+
+#container #sidebar .form {
+	float:right;
+}
+#sidebar .menu h3 {
+    text-align: center;
+}
+#container #sidebar .form {
+}
+#nav ul li {
+}
+
+
+
+.menu{
+	margin-left: 10px;
+}
+.menu h3{
+	font-size:1.625em;
+	color:#66cle8;
+	padding-top: 20px;
+}
+.menu ul{
+	 
+	list-style-type:none;
+	
+}
+.menu a{
+	display: block;
+	font-size: 0.875em;
+	color:#666666;
+	padding: 10px 0 10px 20px;
+	border-top:solid 1px #aaaaaa;
+	
+}
+.menu a:hover{
+	background-color: #b4f0ff;
+}
+.menu{
+	padding-bottom:50px;
+}
+#container #sidebar .form{
+	padding-top: 50px;
+	margin: 20px;
+}
+
+
+#container #footer #icon {
+	float: left;
+	padding-left: 10px;
+}
+#container .class_wrapper .left_img {
+	width:530px;
+	float: right;
+	height: 200px;
+	background: #ffeed3;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 20px;
+	
+}
+#container .class_wrapper .right_container {
+	float: right;
+	width:380px;
+	height: 255px;
+	background: #ffeed3;
+
+}
+
+.class_wrapper .right_container h2 {
+	color: #933700;
+	text-align: center;
+}
+.class_wrapper .class_righttxt h3 {
+	text-align: center;
+}
+#container .class_wrapper h2 {
+	text-align: center;
+	color: #933700;
+}
+
+#container .class_wrapper .style1 {
+	width:960px;
+	
+	
+}
+
+
+#container .class_wrapper .style2 {
+	width:960px;
+
+
+	
+}
